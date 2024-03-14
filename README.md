@@ -4,7 +4,7 @@ Developed using React, CSS (BEM).
 
 ## Live
 
-[Gericht Restaurant](https://app.netlify.com/sites/gericht-za/overview)
+[Gericht Restaurant](https://gericht-za.netlify.app)
 
 ## Screenshots
 
